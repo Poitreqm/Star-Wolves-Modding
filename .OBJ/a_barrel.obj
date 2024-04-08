@@ -1,0 +1,25 @@
+# Wavefront OBJ exported by IMDeditor
+
+mtllib a_barrel.mtl
+
+v     0.014458 0.029475 -0.073895
+v     0.014458 -0.012932 -0.073895
+v    -0.014458 -0.012932 -0.073895
+# 3 vertices
+
+vt 0.388146 0.981783
+vt 0.388146 0.894782
+vt 0.328825 0.894782
+# 3 texture coordinates
+
+vn 0.000000 0.000001 -1.000000
+vn 0.000000 0.000001 -1.000000
+vn 0.000000 0.000001 -1.000000
+# 3 normals
+
+g object0
+usemtl Material_0
+f 1/1/1  2/2/2  3/3/3
+# 1 polygons in group
+
+# 1 polygons total

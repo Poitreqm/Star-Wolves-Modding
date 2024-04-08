@@ -1,0 +1,28 @@
+#
+#  Btransport2.mtl
+#
+
+newmtl Material_0
+     Ka  0.235294  0.235294  0.235294  1.000000
+     Kd  1.000000  1.000000  1.000000  1.000000
+     Ks  0.557333  0.590118  0.596078  1.000000
+     illum 0
+     Ns 66
+map_Kd ..\TEXTURE\Btransport2_Diffuse.dds
+
+newmtl Material_1
+     Ka  0.235294  0.235294  0.235294  1.000000
+     Kd  1.000000  1.000000  1.000000  1.000000
+     Ks  0.198000  0.209647  0.211765  1.000000
+     illum 0
+     Ns 65
+map_Kd ..\TEXTURE\Btransport2_Diffuse.dds
+
+newmtl Material_2
+     Ka  1.372549  1.372549  1.372549  1.000000
+     Kd  5.000000  5.000000  5.000000  1.000000
+     Ks  0.000000  0.000000  0.000000  1.000000
+     illum 0
+     Ns 0
+map_Kd ..\TEXTURE\Btransport2_Diffuse.dds
+

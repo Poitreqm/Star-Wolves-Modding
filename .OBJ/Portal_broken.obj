@@ -1,0 +1,25 @@
+# Wavefront OBJ exported by IMDeditor
+
+mtllib Portal_broken.mtl
+
+v     0.080093 15.027510 -0.140947
+v    -0.090203 15.027145 -0.140947
+v    -0.006081 14.896197 -0.140947
+# 3 vertices
+
+vt 0.000000 0.000000
+vt 0.000000 0.000000
+vt 0.000000 0.000000
+# 3 texture coordinates
+
+vn 0.000000 -0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+vn 0.000000 -0.000000 1.000000
+# 3 normals
+
+g object0
+usemtl Material_0
+f 1/1/1  2/2/2  3/3/3
+# 1 polygons in group
+
+# 1 polygons total

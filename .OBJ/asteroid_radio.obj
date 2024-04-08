@@ -1,0 +1,25 @@
+# Wavefront OBJ exported by IMDeditor
+
+mtllib asteroid_radio.mtl
+
+v     0.016238 0.000000 0.047409
+v     0.036470 0.000000 -0.039297
+v    -0.046272 0.000000 -0.016085
+# 3 vertices
+
+vt 0.000000 0.000000
+vt 0.000000 1.000000
+vt 1.000000 1.000000
+# 3 texture coordinates
+
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+# 3 normals
+
+g object0
+usemtl Material_0
+f 1/1/1  2/2/2  3/3/3
+# 1 polygons in group
+
+# 1 polygons total

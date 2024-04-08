@@ -1,0 +1,2 @@
+In this file you have alls ships, stations and asteroids from game. ALL!! 
+Just put them in your game.

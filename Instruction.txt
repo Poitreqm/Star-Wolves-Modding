@@ -1,0 +1,46 @@
+Moddels and textures from Star Wolves 2 and Star Wolves 3: Civil War
+ME: 
+https://github.com/Poitreqm/
+
+https://www.linkedin.com/in/iz2804/
+*********************
+To use, for example, in Unreal Engine or Unity, you must
+1. take the original .imd file and convert it using
+the Emeditor_V2 program to a file with the .obj extension (EXPORT tab)
+2. After that, you need to take the file.obj and paste it into Blender precisely through IMPORT, since it will not work through the standard OPEN. THE IMPORT TAB
+3. After that, you need to save it in the format.fbx is the EXPORT tab since it is via the standard Save as... It won't work
+4. Open UE/Unity and paste the file
+
+In order to insert a texture, you need to take the original one.DDS and convert it via to a .png file
+I recommend XvViewMP for these purposes.
+
+In case you don't know which textures are needed for a particular object. you can always open Emeditor_v2, open a file for example mothership.IMD (ship base) and in
+the MATERIALS tab view the name of the texture (or several in the case of new_mothership.IMD is the Ramadanta-base of SW2) that you need.
+
+P.S. star wolves.FBS contains all the models of ships, stations and the like you need. in the folder .PNG you have access to already converted textures that you can simply paste into your engine.
+
+=========================================================================================================================================================
+Модели и текстуры из "Звездных волков 2" и "Звездных волков 3: Гражданская война"
+
+Я:
+https://github.com/Poitreqm/
+
+https://www.linkedin.com/in/iz2804/
+*********************
+
+Для исспользования к примеру в Unreal Engine или Unity необходимо
+1. взять оригинальный .imd файл и преобразовать его с помощью
+программы IMDeditor_V2 в файл с расширение .obj (вкладка EXPORT)
+2. После этого необходимо взять файл .obj и вставить его в Blender именно через IMPORT так как через стандартный OPEN не получится. ВКЛАДКА IMPORT
+3. После нужно сохранить в формате .fbx - вкладка EXPORT так как через стандарнтый Save as... не получится
+4. Открываем UE/Unity и вставляем файл 
+
+Для того чтобы вставить текстуру необходимо взять оригинальный .DDS и преобразовать его через в файл .png
+Я рекомендую для этих целей XvViewMP.
+
+В случае если вы не знаете какие текстуры нужны для того или иного объекта. вы можете всегда открыть IMDeditor_v2, открыть файл к примеру mothership.IMD(корабль база) и в 
+вкладке MATERIALS поссмотреть название текстуры(или несколько в случае с new_mothership.IMD - база-рамаданта из ЗВ2) которая вам нужна.
+
+P.S. starwolves.fbs содержит все необходимые вам модели кораблей станций и тому подобное. в папке .PNG у вас есть доступ к уже преобразованным текстурам которые вы можете просто вставить в ваш движок.
+
+
